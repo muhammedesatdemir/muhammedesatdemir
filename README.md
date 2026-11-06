@@ -6,10 +6,10 @@
     <a href="https://linkedin.com/in/muhammed-esat-demir" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:mirmuhammedesat@gmail.com">
+    <a href="mailto:demirmuhammedesat@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://ieeexplore.ieee.org" target="_blank">
+    <a href="https://ieeexplore.ieee.org/document/11727897" target="_blank">
       <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore" />
     </a>
     <a href="https://muhammedesatdemir.com" target="_blank">
@@ -22,7 +22,7 @@
 
 ### About Me
 
-Software Engineer graduated from Istinye University with hands-on full-stack experience across enterprise, start-up, and academic research settings. I specialize in backend development using .NET 8 and FastAPI (Clean Architecture, CQRS, RBAC), cross-platform frontends with React and React Native, and integrating applied AI pipelines into resilient software products. Published author at IEEE IDAP'26 on leakage-aware Transformer models.
+Software Engineer graduated from Istinye University with hands-on full-stack experience across enterprise, start-up and academic research settings. I specialize in backend development using .NET 8 and FastAPI (Clean Architecture, CQRS, RBAC), cross-platform frontends with React and React Native and integrating applied AI pipelines into resilient software products. Published author at IEEE IDAP'26 on leakage-aware Transformer models.
 
 ---
 
@@ -148,3 +148,4 @@ Software Engineer graduated from Istinye University with hands-on full-stack exp
   <img src="https://github-readme-stats.vercel.app/api?username=muhammedesatdemir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammed's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedesatdemir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
